@@ -1,0 +1,1 @@
+参考：https://www.techscore.com/tech/DesignPattern/index.html/
